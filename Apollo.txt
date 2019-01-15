@@ -1,0 +1,43 @@
+coding:utf-8
+https://github.com/ApolloAuto/apollo
+
+http://apollo.auto/devcenter/courselist_cn.html?target=4
+开发者中心
+
+http://apollo.auto/
+
+
+https://github.com/ApolloAuto/apollo/blob/master/docs/howto/how_to_run_apollo_2.5_with_ubuntu16.md
+How to Run Apollo in Ubuntu 16 (Apollo 2.5)
+
+https://github.com/ApolloAuto/apollo/tree/master/docs/demo_guide
+Run Offline Demo
+
+https://github.com/ApolloAuto/apollo/blob/master/docs/howto/how_to_run_apollo_3.0_with_ubuntu16.md
+how_to_run_apollo_3.0_with_ubuntu16.md
+
+
+
+https://blog.csdn.net/weixin_43426627/article/details/85010481
+Ubuntu14.04搭建GPU版本的百度Apollo3.5自动驾驶平台
+
+https://blog.csdn.net/davidhopper/article/details/85097502
+Apollo 3.5的构建方法
+
+https://blog.csdn.net/SingingFisher/article/details/81536096
+百度阿波罗Apollo r3.0完整安装以及常用操作教程：14+3.0
+
+https://blog.csdn.net/jinzhuojun/article/details/80210180
+自动驾驶平台Apollo 2.5环境搭建
+
+https://blog.csdn.net/LJX646566715/article/details/79071796
+Ubuntu apache-apollo安装：16.04+1.7.1
+
+https://blog.csdn.net/DinnerHowe/article/details/79934687
+百度apollo - Apollo简介：2. 安装以及运行：14.04+1.5
+
+https://blog.csdn.net/qq_34906391/article/details/81478968
+百度Apollo平台搭建步骤详解：14.04+1.5
+
+https://blog.csdn.net/qq_29796781/article/details/80507947
+百度无人驾驶Apollo 平台搭建：14.04+1.5
